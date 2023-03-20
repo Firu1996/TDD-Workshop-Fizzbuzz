@@ -12,4 +12,16 @@ describe("FizzBuzz", () => {
     //Assert
     expect(actualResult).toEqual(expectedResult);
   });
+
+  //  should get '2' when input = 2
+
+  //  should get 'Fizz' when input = 3
+
+  //  should get 'Buzz' when input = 5
+
+  //  should get 'Fizz' when input = 6
+
+  //  should get 'Buzz' when input = 10
+
+  //  should get 'FizzBuzz' when input = 15
 });
